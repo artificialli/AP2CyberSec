@@ -3,7 +3,7 @@
 ## Overview
 Welcome to my Cybersecurity Portfolio.
 
-This repository documents my hands-on cybersecurity journey through certification progress, project creation, and community developments. The goal of this repository is active application from concept to creation as I learn cybsecurity and the corresponding interests. During my journey, I will utilize a plethora of online resouces, free and paid, which will be all be available here: <-- learningMaterial -->
+This repository documents my hands-on cybersecurity journey through certification progress, project creation, and community developments. The goal of this repository is active application from concept to creation as I learn cybsecurity and the corresponding interests. During my journey, I will utilize a plethora of online resouces, free and paid, which will be all be available here: (./learningMaterial)
 
 ## Objectives
 * Develop practical skills for enterprise use-case scenarios.
