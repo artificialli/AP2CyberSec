@@ -17,9 +17,11 @@ This repository documents my hands-on cybersecurity journey through certificatio
 
 ## Progress
 - [x] Phase 1: Gather resources that will be utilized during this journey.
-- [ ] Phase 2: Harden cybersecurity and physical security foundations.
-- [ ] Phase 3: Develop Projects ().
-- [ ] Phase 4: Final deployment and documentation polish.
+- [ ] Phase 2: Harden [networking fundamentals.](./networkingFundamentals.md)
+- [ ] Phase 3: Harden [programming fundamentals.](./programmingFundamentals.md) (Python, C#, C++)
+- [ ] Phase 4: Establish [cybersecurity fundamentals.](./cybersecurityFundamentals.md) 
+- [ ] Phase 5: Develop Projects ().
+- [ ] Phase 6: Final deployment and documentation polish.
 
 ## Professional Goal
 > *“My motive is to sharpen my pre-exisisting Network and PhySec understanding, whilst developing and instilling a cybersecurity understanding through the active effort of information into application. This repository will serve as a public record of my journey via accountability, exhibit my eternal committment to growth within this industry, and provide examples of my growning expertise for all those that may be interested.”*
