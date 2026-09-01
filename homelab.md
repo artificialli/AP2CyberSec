@@ -19,10 +19,16 @@
 - [x] download software on local server
 - [ ] custom distro search
 
+## 1 September
+* Monitoring
+- [ ] Grafana
+- [ ] Prometheus
+- [ ] 
+
 ## Sources
 * [reddit](https://www.reddit.com/r/sonarr/comments/17v6q01/making_sure_i_understand_what_sonarr_does/)
 * [trashGuides](https://trash-guides.info/)
 * [trueNAS](https://forums.truenas.com/t/help-sonarr-radarr-sabnzb-jellyfin-install-driving-me-crazy/58585)
 * 
-  
+
 
