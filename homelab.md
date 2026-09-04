@@ -14,6 +14,8 @@
 - [ ] arrange custom pull settings via jellyseer
 - [ ] observe automated pull for accuracy
 - [ ] tune retention settings and ot device delivery
+- [ ] music app for music 
+- [ ] cloudflare for custon dns + ad blocking
 
 * Kali Linux
 - [x] download software on local server
