@@ -14,10 +14,6 @@
 - [ ] arrange custom pull settings via jellyseer
 - [ ] observe automated pull for accuracy
 - [ ] tune retention settings and ot device delivery
-- [ ] music app for music 
-- [ ] cloudflare for custon dns + ad blocking
-- [ ] jelly bridge
-- [ ] docker desktop
 
 * Kali Linux
 - [x] download software on local server
@@ -27,7 +23,12 @@
 * Monitoring
 - [ ] Grafana
 - [ ] Prometheus
-- [ ] 
+
+## 4 September
+- [ ] music app for music
+- [ ] cloudflare for custom dns + ad blocking
+- [ ] jelly bridge
+- [ ] docker desktop
 
 ## Sources
 * [reddit](https://www.reddit.com/r/sonarr/comments/17v6q01/making_sure_i_understand_what_sonarr_does/)
