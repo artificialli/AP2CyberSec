@@ -25,7 +25,7 @@
 - [ ] Prometheus
 
 ## 4 September
-- [ ] music app for music
+- [ ] navadrone music app for music
 - [ ] cloudflare for custom dns + ad blocking
 - [ ] jelly bridge
 - [ ] docker desktop
